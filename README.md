@@ -21,7 +21,7 @@ Here are some of my featured projects:
 
 
 ## 📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=natnaelmekuriaw&show_icons=true&theme=radical
+https://github-readme-stats.vercel.app/api?username=natnaelmekuriaw&show_icons=true&theme=dracula
 
 
 ## 📬 Connect with Me
