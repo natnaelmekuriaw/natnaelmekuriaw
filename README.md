@@ -18,7 +18,7 @@ Here are some of my featured projects:
 | **ERP Software**               | Cloud based ERP solution.       | In Development | Private |
 | **Data Sourcing App**               | Simple laravel based Data storing, sourcing and filtering app.       | In Development | Private | PhpLaravel, BootStrap ,AWS integration,  |
 | **Telegram Bots**               | Multiple telegram bots implmented using webhooks and polling method  | In Development | Public | Webhooks, TelegraphJs, ExpressJs, Mysql  |
-| **Hagerly**               | Digital content Merket place for digital contnet and properties | In Development | Public | Laravel, Mysql, Docker, Laravel sail, Swagger   |
+| **Hagerly**               | Digital content Merket place for digital contnet and properties | In Development | Private | Laravel, Mysql, Docker, Laravel sail, Swagger   |
 
 ## 🚀 Technologies & Tools
 
