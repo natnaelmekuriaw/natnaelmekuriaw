@@ -6,15 +6,15 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** working with **R
 
 Here are some of my featured projects:
 
-| Project Name  | Description                       | Live Demo                                  | Repository                                       |
-| ------------- | --------------------------------- | ------------------------------------------ | ------------------------------------------------ |
-| **Ethiojobs Job board** | A job board with advanced candidate matching and ai featured cv parser and more features. | [Live]([https://ethiojobs.net]) | Repo : Private  |
-| **Kipawa** | A similar job board with little diffrent scope. | [Live]([https://www.kipawa.io]) | Repo : Private  |
-| **Dereja** | Simpler platform for undergraduate job seackers. | [Live]((https://www.dereja.com/)) | Repo : Private |
-| **ATS software** | An application tracking system implmented as. | [Live]([https://ats.ethiojobs.net]) | Repo : Private |
-| **Finance Software** | A customizable finance software with all features on peachtrea and more . | [Live : Still in development]) | Repo :Private |
-| **EthioFreelance** | A Talent Merket place used by freelancers and students . | [Live : On Maintainace ]) | Repo :Private |
-| **APMS** | Academic Project Management System used by education institutes . | [Live : On Maintainace ]) | Repo :Private |
+| Project Name            | Description                                                                 | Live Demo                                   | Repository      | Technologies & Tools |
+|-------------------------|---------------------------------------------------------------------------|---------------------------------------------|----------------|----------------------|
+| **Ethiojobs Job Board** | A job board featuring advanced candidate matching, AI-powered CV parsing, and more. | [Live](https://ethiojobs.net) | Private | React, NestJS, Prisma, AI Tools |
+| **Kipawa**             | A specialized job board with a slightly different focus.                  | [Live](https://www.kipawa.io) | Private | Next.js, NestJS, PostgreSQL |
+| **Dereja**             | A streamlined platform designed for undergraduate job seekers.            | [Live](https://www.dereja.com/) | Private | React, Node.js, MongoDB |
+| **ATS Software**       | A comprehensive applicant tracking system.                               | [Live](https://ats.ethiojobs.net) | Private | NestJS, PostgreSQL, Tailwind CSS |
+| **Finance Software**   | A fully customizable finance solution with features beyond Peachtree.   | Still in development | Private | React, NestJS, MySQL |
+| **EthioFreelance**     | A talent marketplace catering to freelancers and students.               | On Maintenance | Private | Next.js, Prisma, Stripe API |
+| **APMS**               | An Academic Project Management System for educational institutions.       | On Maintenance | Private | React, NestJS, MySQL |
 
 ## 🚀 Technologies & Tools
 
