@@ -12,9 +12,10 @@ Here are some of my featured projects:
 | **Kipawa**             | A specialized job board with a slightly different focus.                  | [Live](https://www.kipawa.io) | Private | Next.js, NestJS, PostgreSQL |
 | **Dereja**             | A streamlined platform designed for undergraduate job seekers.            | [Live](https://www.dereja.com/) | Private | React, Node.js, MongoDB |
 | **ATS Software**       | A comprehensive applicant tracking system.                               | [Live](https://ats.ethiojobs.net) | Private | NestJS, PostgreSQL, Tailwind CSS |
-| **Finance Software**   | A fully customizable finance solution with features beyond Peachtree.   | Still in development | Private | React, NestJS, MySQL |
+| **Finance Software**   | A fully customizable finance solution with features beyond Peachtree.   | In development | Private | React, NestJS, MySQL |
 | **EthioFreelance**     | A talent marketplace catering to freelancers and students.               | On Maintenance | Private | Next.js, Prisma, Stripe API |
 | **APMS**               | An Academic Project Management System for educational institutions.       | On Maintenance | Private | React, NestJS, MySQL |
+| **ERP Software**               | Cloud based ERP solution.       | In Development | Private |
 
 ## 🚀 Technologies & Tools
 
