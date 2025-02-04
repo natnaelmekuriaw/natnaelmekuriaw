@@ -19,6 +19,38 @@ Here are some of my featured projects:
 ## 🚀 Technologies & Tools
 
 
+Languages:
+
+    JavaScript
+    TypeScript
+    Java
+    PHP
+    C++
+
+Frameworks & Libraries:
+
+    HTML, CSS & Bootstrap
+    React, MUI (Material UI), Ant Design (AntD), RTK (Redux Toolkit)
+    Vue & Vuetify
+    Next.js
+    Laravel
+    Node.js, Express, NestJS, Prisma
+
+Database Management Systems (DBMS):
+
+    MongoDB
+    MySQL
+
+Tools:
+
+    Version Control:
+        GitHub
+        GitLab
+    Docker
+    Postman
+    Adobe XD
+    Linux
+
 
 ## 📊 GitHub Stats
 https://github-readme-stats.vercel.app/api?username=natnaelmekuriaw&show_icons=true&theme=dracula
