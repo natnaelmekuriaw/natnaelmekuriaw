@@ -13,7 +13,7 @@ Here are some of my featured projects:
 | **Dereja**             | A streamlined platform designed for undergraduate job seekers.            | [Live](https://www.dereja.com/) | Private | React, Php Laravel, MongoDB |
 | **ATS Software**       | A comprehensive applicant tracking system.                               | [Live](https://ats.ethiojobs.net) | Private | Private | React, NestJS, Material UI, Php, Laravel, Mysql, phpMyAdmin - Docker, GitLab, Ubuntu linux |
 | **Finance Software**   | A fully customizable finance solution with features beyond Peachtree.   | In development | Private | React, Nest Js, Prisma, Mysql |
-| **EthioFreelance**     | A talent marketplace catering to freelancers and students.               | On Maintenance | Private | Next.js, Prisma, Stripe API |
+| **EthioFreelance**     | A talent marketplace catering to freelancers and students.               | On Maintenance | Private | Next.js, Prisma, HelloCash local payment integration |
 | **APMS**               | An Academic Project Management System for educational institutions.       | On Maintenance | Private | React, NestJS, MySQL |
 | **ERP Software**               | Cloud based ERP solution.       | In Development | Private |
 | **Data Sourcing App**               | Simple laravel based Data storing, sourcing and filtering app.       | In Development | Private | PhpLaravel, BootStrap ,AWS integration,  |
