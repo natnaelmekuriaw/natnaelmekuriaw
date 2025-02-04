@@ -47,14 +47,13 @@ Here are some of my featured projects:
   -  Laravel Elequent ORM
 
 - Tools:
-
- -  Version Control:
-   - GitHub
-   - GitLab
- - Docker
- - Postman
- - Adobe XD
- - Linux
+   -  Version Control:
+     - GitHub
+     - GitLab
+   - Docker
+   - Postman
+   - Adobe XD
+   - Linux
 
 
 ## 📊 GitHub Stats
