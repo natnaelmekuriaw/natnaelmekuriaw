@@ -53,6 +53,7 @@ Here are some of my featured projects:
      - GitLab
    - Docker
    - Postman
+   - Swagger documentation
    - Adobe XD
    - Linux
 
