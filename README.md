@@ -8,7 +8,7 @@ Here are some of my featured projects:
 
 | Project Name            | Description                                                                 | Live Demo                                   | Repository      | Technologies & Tools |
 |-------------------------|---------------------------------------------------------------------------|---------------------------------------------|----------------|----------------------|
-| **Ethiojobs Job Board** | A job board featuring advanced candidate matching, AI-powered CV parsing, and more. | [Live](https://ethiojobs.net) | Private | - React, NestJS, Material UI - Php, Laravel - Mysql, phpMyAdmin - Docker, GitLab, Ubuntu |
+| **Ethiojobs Job Board** | A job board featuring advanced candidate matching, AI-powered CV parsing, and more. | [Live](https://ethiojobs.net) | Private | - React, NestJS, Material UI - Php, Laravel - Mysql, phpMyAdmin - Docker, GitLab, Ubuntu linux |
 | **Kipawa**             | A specialized job board with a slightly different focus.                  | [Live](https://www.kipawa.io) | Private | Next.js, NestJS, PostgreSQL |
 | **Dereja**             | A streamlined platform designed for undergraduate job seekers.            | [Live](https://www.dereja.com/) | Private | React, Node.js, MongoDB |
 | **ATS Software**       | A comprehensive applicant tracking system.                               | [Live](https://ats.ethiojobs.net) | Private | NestJS, PostgreSQL, Tailwind CSS |
@@ -19,37 +19,39 @@ Here are some of my featured projects:
 ## 🚀 Technologies & Tools
 
 
-Languages:
+- Languages:
 
-    JavaScript
-    TypeScript
-    Java
-    PHP
-    C++
+  -  JavaScript
+  -  TypeScript
+  -  HTML5
+  -  Java
+  -  PHP
+  -  C++
 
-Frameworks & Libraries:
+- Frameworks & Libraries:
 
-    HTML, CSS & Bootstrap
-    React, MUI (Material UI), Ant Design (AntD), RTK (Redux Toolkit)
-    Vue & Vuetify
-    Next.js
-    Laravel
-    Node.js, Express, NestJS, Prisma
+  -  HTML, CSS & Bootstrap
+  -  React, MUI (Material UI), Ant Design (AntD), RTK (Redux Toolkit)
+  -  Vue & Vuetify
+  -  Next.js
+  -  Laravel
+  -  Node.js, Express, NestJS, Prisma
 
-Database Management Systems (DBMS):
+- Database Management Systems (DBMS) & ORMS:
+  -  MongoDB
+  -  MySQL
+  -  Prisma ORM
+  -  Laravel Elequent ORM
 
-    MongoDB
-    MySQL
+- Tools:
 
-Tools:
-
-    Version Control:
-        GitHub
-        GitLab
-    Docker
-    Postman
-    Adobe XD
-    Linux
+ -  Version Control:
+   -     GitHub
+   -     GitLab
+- Docker
+- Postman
+- Adobe XD
+- Linux
 
 
 ## 📊 GitHub Stats
