@@ -32,5 +32,6 @@ Here are some of my featured projects:
 - Email: [your.email@example.com](mailto\:your.email@example.com)
 
 Checkout my portfolio https://natnael-portfolio.vercel.app
+
 Thanks for stopping by! 😊
 
