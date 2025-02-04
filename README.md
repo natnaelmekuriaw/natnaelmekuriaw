@@ -1,6 +1,6 @@
 # Hi there, I'm Natnael Mekuriaw 👋
 
-Welcome to my GitHub! I'm a passionate **Full-Stack Developer** working with **React, Vue, Next.js, NestJS, Prisma, Php Laravel and more advanced technoligies and libraries**. I love building dynamic and scalable applications. 🚀
+Welcome to my GitHub! I'm a passionate Full-Stack Developer and Software Engineer with over 3 years of experience in developing high-quality and reliable software products. I work with React, Vue, Next.js, NestJS, Prisma, PHP Laravel, and more advanced technologies and libraries. I love building dynamic and scalable applications. 🚀
 
 ## 📌 Projects
 
@@ -8,7 +8,7 @@ Here are some of my featured projects:
 
 | Project Name            | Description                                                                 | Live Demo                                   | Repository      | Technologies & Tools |
 |-------------------------|---------------------------------------------------------------------------|---------------------------------------------|----------------|----------------------|
-| **Ethiojobs Job Board** | A job board featuring advanced candidate matching, AI-powered CV parsing, and more. | [Live](https://ethiojobs.net) | Private | [- React, NestJS, Material UI - Php, Laravel - Mysql, phpMyAdmin - Docker, GitLab, Ubuntu linux] |
+| **Ethiojobs Job Board** | A job board featuring advanced candidate matching, AI-powered CV parsing, and more. | [Live](https://ethiojobs.net) | Private | (- React, NestJS, Material UI - Php, Laravel - Mysql, phpMyAdmin - Docker, GitLab, Ubuntu linux) |
 | **Kipawa**             | A specialized job board with a slightly different focus.                  | [Live](https://www.kipawa.io) | Private | Next.js, NestJS, PostgreSQL |
 | **Dereja**             | A streamlined platform designed for undergraduate job seekers.            | [Live](https://www.dereja.com/) | Private | React, Node.js, MongoDB |
 | **ATS Software**       | A comprehensive applicant tracking system.                               | [Live](https://ats.ethiojobs.net) | Private | NestJS, PostgreSQL, Tailwind CSS |
@@ -46,12 +46,12 @@ Here are some of my featured projects:
 - Tools:
 
  -  Version Control:
-   -     GitHub
-   -     GitLab
-- Docker
-- Postman
-- Adobe XD
-- Linux
+   - GitHub
+   - GitLab
+ - Docker
+ - Postman
+ - Adobe XD
+ - Linux
 
 
 ## 📊 GitHub Stats
