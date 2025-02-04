@@ -62,7 +62,7 @@ https://github-readme-stats.vercel.app/api?username=natnaelmekuriaw&show_icons=t
 
 ## 📬 Connect with Me
 
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: [https://linkedin.com/in/natneal-mekuriaw](https://et.linkedin.com/in/natnael-mekuriaw-504361178)
 - Portfolio: https://natnael-portfolio.vercel.app
 - Email: [natnaelmekuriaw50@gmail.com](mailto\:natnaelmekuriaw50@gmail.com)
 
