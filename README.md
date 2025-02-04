@@ -8,8 +8,8 @@ Here are some of my featured projects:
 
 | Project Name            | Description                                                                 | Live Demo                                   | Repository      | Technologies & Tools |
 |-------------------------|---------------------------------------------------------------------------|---------------------------------------------|----------------|----------------------|
-| **Ethiojobs Job Board** | A job board featuring advanced candidate matching, AI-powered CV parsing, and more. | [Live](https://ethiojobs.net) | Private | React, NestJS, Material UI, Php, Laravel, Mysql, phpMyAdmin - Docker, GitLab, Ubuntu linux |
-| **Kipawa**             | A specialized job board with a slightly different focus.                  | [Live](https://www.kipawa.io) | Private | React, NestJS, Material UI, Php, Laravel, Mysql, phpMyAdmin - Docker, GitLab, PostgreSQL |
+| **Ethiojobs Job Board** | A job board featuring advanced candidate matching, AI-powered CV parsing, and more. | [Live](https://ethiojobs.net) | Private | React, NestJS, Material UI, Php, Laravel, Mysql, phpMyAdmin, Docker, GitLab, Ubuntu linux |
+| **Kipawa**             | A specialized job board with a slightly different focus.                  | [Live](https://www.kipawa.io) | Private | React, NestJS, Material UI, Php, Laravel, Mysql, phpMyAdmin, 
 | **Dereja**             | A streamlined platform designed for undergraduate job seekers.            | [Live](https://www.dereja.com/) | Private | React, Php Laravel, MongoDB |
 | **ATS Software**       | A comprehensive applicant tracking system.                               | [Live](https://ats.ethiojobs.net) | Private | Private | React, NestJS, Material UI, Php, Laravel, Mysql, phpMyAdmin - Docker, GitLab, Ubuntu linux |
 | **Finance Software**   | A fully customizable finance solution with features beyond Peachtree.   | In development | Private | React, Nest Js, Prisma, Mysql |
