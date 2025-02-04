@@ -19,20 +19,15 @@ Here are some of my featured projects:
 ## 🚀 Technologies & Tools
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=natnaelmekuriaw&show_icons=true&theme=radical)
-
-
-
-
 
 ## 📊 GitHub Stats
-
+https://github-readme-stats.vercel.app/api?username=natnaelmekuriaw&show_icons=true&theme=radical
 
 
 ## 📬 Connect with Me
 
-- LinkedIn: [https://linkedin.com/in/yourprofile]
-- Portfolio: ([https://natnael-portfolio.vercel.app])
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Portfolio: https://natnael-portfolio.vercel.app
 - Email: [natnaelmekuriaw50@gmail.com](mailto\:natnaelmekuriaw50@gmail.com)
 
 Checkout my portfolio https://natnael-portfolio.vercel.app
