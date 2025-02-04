@@ -14,7 +14,7 @@ Here are some of my featured projects:
 | **ATS Software**       | A comprehensive applicant tracking SASS software .                               | [Live](https://ats.ethiojobs.net) | Private | Private | React, NestJS, Material UI, Php, Laravel, Mysql, phpMyAdmin - Docker, GitLab, Ubuntu linux |
 | **Finance Software**   | A fully customizable finance solution with features beyond Peachtree.   | In development | Private | React, Nest Js, Prisma, Mysql |
 | **EthioFreelance**     | A talent marketplace catering to freelancers and students.               | On Maintenance | Public | Next.js, Prisma, HelloCash local payment integration |
-| **APMS**               | An Academic Project Management System for educational institutions.       |   | Private | React, NestJS, MySQL |
+| **APMS**               | An Academic Project Management System for educational institutions and intelectual properties.       |   | Private | React, NestJS, MySQL |
 | **ERP Software**               | Cloud based ERP solution.       | In Development | Private |
 | **Data Sourcing App**               | Simple laravel based Data storing, sourcing and filtering app.       | In Development | Private | PhpLaravel, BootStrap ,AWS integration,  |
 | **Telegram Bots**               | Multiple telegram bots implmented using webhooks and polling method  | In Development | Public | Webhooks, TelegraphJs, ExpressJs, Mysql  |
