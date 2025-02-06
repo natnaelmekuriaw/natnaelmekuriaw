@@ -59,7 +59,7 @@ Here are some of my featured projects:
 
 
 ## 📊 GitHub Stats
-#https://github-readme-stats.vercel.app/api?username=natnaelmekuriaw&show_icons=true&theme=dracula
+<!--https://github-readme-stats.vercel.app/api?username=natnaelmekuriaw&show_icons=true&theme=dracula-->should be uncommented once satatus is updated and better
 ![Screenshot from 2025-02-06 16-23-54](https://github.com/user-attachments/assets/eb5707dc-9fcc-4ec4-bac8-75a7ad27f9b5)
 
 
