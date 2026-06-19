@@ -5,14 +5,43 @@ Welcome to my GitHub! I'm a passionate Full-Stack Developer and Software Enginee
 
 ## 🛠️ Tech Stack
 
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,tailwind,bootstrap" />
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,php,cpp" />
+</p>
 
-**Backend**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel,java,prisma" />
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,bootstrap,tailwind,materialui" />
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" />
+</p>
 
-**Database & Tools**  
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,gitlab,linux,postman" />
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,prisma,electron" />
+  <img src="https://img.shields.io/badge/MCP%20Server-111827?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Integrations-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+### Databases & ORMs
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,prisma" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,linux,xd" />
+  <img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+</p>
+
+### Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=jest" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supertest-111827?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
 
 
 ## 📌 Projects
