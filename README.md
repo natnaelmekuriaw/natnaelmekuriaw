@@ -1,8 +1,11 @@
 # Hi there, I'm Natnael Mekuriaw 👋
 
-I'm a Full-Stack Software Engineer with 4+ years of experience building production-grade web platforms, SaaS systems, job boards, applicant tracking systems, ecommerce tools, dashboards, APIs, and automation products.
 
-I work across React, Next.js, Vue, NestJS, Laravel, Prisma, MySQL, MongoDB, Docker, and Linux-based deployments, with a strong focus on scalable products, clean APIs, and reliable user experiences.
+I'm a Full-Stack Software Engineer with 4+ years of experience building scalable, reliable, and high-quality web applications.
+
+I focus on cloud-based systems, API-driven platforms, third-party integrations, dashboards, automation tools, and end-to-end software solutions. I care deeply about strong architecture, clean UI/UX, performance, maintainability, and building products that are practical, stable, and easy to use.
+
+I enjoy solving complex problems and turning ideas into dependable software that works well in the real world.
 
 
 ## 🛠️ Tech Stack
