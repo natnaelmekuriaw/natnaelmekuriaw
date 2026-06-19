@@ -81,6 +81,12 @@ Here are some of my featured projects:
 <!--![Screenshot from 2025-02-06 16-23-54](https://github.com/user-attachments/assets/eb5707dc-9fcc-4ec4-bac8-75a7ad27f9b5) -->
 
 
+## 🔭 Currently
+
+- Building SaaS products, internal tools, and scalable web platforms
+- Working with React, Next.js, NestJS, Laravel, Prisma, MySQL, and Docker
+- Exploring AI-powered product features, automation, and developer tooling
+
 
 ## 📬 Connect with Me
 
