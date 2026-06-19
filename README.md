@@ -134,12 +134,13 @@ Here are some of my featured projects:
 - Working with React, Next.js, NestJS, Laravel, Prisma, MySQL, and Docker
 - Exploring AI-powered product features, automation, and developer tooling
 
-
+<!--
 ## 📬 Connect with Me
 
 - LinkedIn: [https://linkedin.com/in/natneal-mekuriaw](https://et.linkedin.com/in/natnael-mekuriaw-504361178)
 - Portfolio: https://natnael-portfolio.vercel.app
 - Email: [natnaelmekuriaw50@gmail.com](mailto\:natnaelmekuriaw50@gmail.com)
+-->
 
 ## 📬 Connect With Me
 
