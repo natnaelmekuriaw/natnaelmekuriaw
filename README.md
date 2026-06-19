@@ -8,6 +8,8 @@ Here are some of my featured projects:
 
 | Project Name            | Description                                                                 | Live Demo                                   | Repository      | Technologies & Tools |
 |-------------------------|---------------------------------------------------------------------------|---------------------------------------------|----------------|----------------------|
+| **Ecommerce**   | A Shopify like ecommerce and ai powered website builder and hosting service   | In development | Private | React, Next Js, sqlite |
+
 | **Finance Software**   | A fully customizable finance solution with features beyond Peachtree.   | In development | Private | React, Nest Js, Prisma, Mysql |
 | **Ethiojobs Job Board** | A job board featuring advanced candidate matching, AI-powered CV parsing, and more. | [Live](https://ethiojobs.net) | Private | React, NestJS, Material UI, Php, Laravel, Mysql, phpMyAdmin, Docker, , Swagger, GitLab, Ubuntu linux |
 | **Kipawa**             | A specialized job board with a slightly different focus.                  | [Live](https://www.kipawa.io) | Private | React, NestJS, Material UI, Php, Laravel, Mysql, phpMyAdmin, 
