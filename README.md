@@ -159,7 +159,7 @@ Here are some of my featured projects:
   <img src="https://komarev.com/ghpvc/?username=natnaelmekuriaw&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
-Checkout my portfolio https://natnael-portfolio.vercel.app
+<!--Checkout my portfolio https://natnael-portfolio.vercel.app -->
 
 Thanks for stopping by! 😊
 
