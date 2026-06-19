@@ -104,14 +104,28 @@ Here are some of my featured projects:
 
    -->
 
-
+<!--
 ## 📊 GitHub Stats
 ![gitstatus](https://github-readme-stats.vercel.app/api?username=natnaelmekuriaw&show_icons=true&theme=dracula)
 
 ## 📊 GitLab Stats
 <img width="602" height="227" alt="image" src="https://github.com/user-attachments/assets/16377c46-e210-4e3a-96b0-80c09a12714d" />
 
-<!--![Screenshot from 2025-02-06 16-23-54](https://github.com/user-attachments/assets/eb5707dc-9fcc-4ec4-bac8-75a7ad27f9b5) -->
+![Screenshot from 2025-02-06 16-23-54](https://github.com/user-attachments/assets/eb5707dc-9fcc-4ec4-bac8-75a7ad27f9b5) -->
+
+
+## 📊Git Stats
+
+<table>
+  <tr>
+    <td>
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=natnaelmekuriaw&show_icons=true&theme=dracula" alt="Natnael's GitHub stats" />
+    </td>
+    <td>
+      <img height="180" src="https://github.com/user-attachments/assets/16377c46-e210-4e3a-96b0-80c09a12714d" alt="Natnael's GitLab stats" />
+    </td>
+  </tr>
+</table>
 
 
 ## 🔭 Currently
