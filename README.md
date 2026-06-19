@@ -141,6 +141,24 @@ Here are some of my featured projects:
 - Portfolio: https://natnael-portfolio.vercel.app
 - Email: [natnaelmekuriaw50@gmail.com](mailto\:natnaelmekuriaw50@gmail.com)
 
+## 📬 Connect With Me
+
+<p align="left">
+  <a href="mailto:natnaelmekuriaw50@gmail.com">
+    <img src="https://img.shields.io/badge/Email-natnaelmekuriaw50%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://et.linkedin.com/in/natnael-mekuriaw-504361178" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Natnael%20Mekuriaw-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://natnael-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=natnaelmekuriaw&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
+
 Checkout my portfolio https://natnael-portfolio.vercel.app
 
 Thanks for stopping by! 😊
