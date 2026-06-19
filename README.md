@@ -1,11 +1,6 @@
 # Hi there, I'm Natnael Mekuriaw 👋
 
-
-I'm a Full-Stack Software Engineer with 4+ years of experience building scalable, reliable, and high-quality web applications.
-
-I focus on cloud-based systems, API-driven platforms, third-party integrations, dashboards, automation tools, and end-to-end software solutions. I care deeply about strong architecture, clean UI/UX, performance, maintainability, and building products that are practical, stable, and easy to use.
-
-I enjoy solving complex problems and turning ideas into dependable software that works well in the real world.
+I'm a Full-Stack Software Engineer with 4+ years of experience building scalable, reliable, and high-quality web applications. I focus on cloud-based systems, API-driven platforms, integrations, dashboards, automation tools, and end-to-end software solutions. I care about strong architecture, clean UI/UX, performance, maintainability, and building software that works well in the real world.
 
 
 ## 🛠️ Tech Stack
