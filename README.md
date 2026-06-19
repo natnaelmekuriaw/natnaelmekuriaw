@@ -144,6 +144,10 @@ Here are some of my featured projects:
 
 ## I'm open to full-stack roles, freelance projects, technical collaborations, and product-focused engineering work.
 
+<p align="left">
+  <strong>Open to full-stack roles, freelance projects, technical collaborations, and product-focused engineering work.</strong>
+</p>
+
 ## 📬 Connect With Me
 
 <p align="left">
@@ -161,6 +165,8 @@ Here are some of my featured projects:
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=natnaelmekuriaw&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
+
+
 
 <!--Checkout my portfolio https://natnael-portfolio.vercel.app -->
 
