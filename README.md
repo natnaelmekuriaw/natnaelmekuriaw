@@ -1,4 +1,4 @@
-<img width="602" height="227" alt="image" src="https://github.com/user-attachments/assets/57d24a03-acd5-4d37-8a03-b5bdc117cfb5" /># Hi there, I'm Natnael Mekuriaw 👋
+# Hi there, I'm Natnael Mekuriaw 👋
 
 Welcome to my GitHub! I'm a passionate Full-Stack Developer and Software Engineer with over 3 years of experience in developing high-quality and reliable software products. I work with React, Vue, Next.js, NestJS, Prisma, PHP Laravel, and more advanced technologies and libraries. I love building dynamic and scalable applications. 🚀
 
@@ -67,7 +67,26 @@ Here are some of my featured projects:
 
 <!--![Screenshot from 2025-02-06 16-23-54](https://github.com/user-attachments/assets/eb5707dc-9fcc-4ec4-bac8-75a7ad27f9b5) -->
 
+
+# TEST STARTS HERE
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
+# TEST STARTS HERE
+
 
 ## 📬 Connect with Me
 
