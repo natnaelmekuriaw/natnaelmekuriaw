@@ -1,6 +1,6 @@
 # Hi there, I'm Natnael Mekuriaw 👋
 
-Welcome to my GitHub! I'm a passionate Full-Stack Developer and Software Engineer with over 3 years of experience in developing high-quality and reliable software products. I work with React, Vue, Next.js, NestJS, Prisma, PHP Laravel, and more advanced technologies and libraries. I love building dynamic and scalable applications. 🚀
+Welcome to my GitHub! I'm a passionate Full-Stack Developer and Software Engineer with over 4 years of experience in developing high-quality and reliable software products. I work with React, Vue, Next.js, NestJS, Prisma, PHP Laravel, and more advanced technologies and libraries. I love building dynamic and scalable applications. 🚀
 
 
 ## 🛠️ Tech Stack
