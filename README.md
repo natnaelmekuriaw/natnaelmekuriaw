@@ -64,6 +64,29 @@ Here are some of my featured projects:
 | **Hagerly**               | Digital content Merket place for digital contnet and properties | In Development | Private | Laravel, Mysql, Docker, Laravel sail, Swagger   |
 
 
+## 📌 Featured Projects
+
+<details open>
+<summary><strong>View projects</strong></summary>
+
+| Project | Summary | Status | Link | Stack |
+|--------|---------|--------|------|-------|
+| **Ecommerce Platform** | Cloud-based ecommerce and AI-powered website builder with hosting capabilities. | In Development | Private | React, Next.js, SQLite |
+| **Finance Software** | Customizable finance management system designed for flexible business workflows and reporting. | In Development | Private | React, NestJS, Prisma, MySQL |
+| **Ethiojobs Job Board** | Large-scale job platform with candidate matching, CV parsing, dashboards, and employer workflows. | Live | [Visit](https://ethiojobs.net) | React, NestJS, Laravel, MySQL, Docker |
+| **Kipawa** | Specialized job platform focused on tailored recruitment workflows and candidate discovery. | Live | [Visit](https://www.kipawa.io) | React, NestJS, Laravel, MySQL |
+| **Dereja** | Career platform designed to support undergraduate job seekers and early-career talent. | Live | [Visit](https://www.dereja.com/) | React, Laravel, MongoDB |
+| **ATS Software** | SaaS applicant tracking system for managing recruitment pipelines, applicants, and hiring workflows. | Live | [Visit](https://ats.ethiojobs.net) | React, NestJS, Laravel, MySQL, Docker |
+| **EthioFreelance** | Talent marketplace for freelancers and students with local payment integration. | Maintenance | Public | Next.js, Prisma, HelloCash |
+| **APMS** | Academic project management system for institutions, student projects, and intellectual property workflows. | Private | Private | React, NestJS, MySQL |
+| **ERP Software** | Cloud-based ERP solution for business process management and operational workflows. | In Development | Private | Full-Stack |
+| **Data Sourcing App** | Laravel-based data storage, filtering, and sourcing tool with cloud integration. | In Development | Private | Laravel, Bootstrap, AWS |
+| **Telegram Bots** | Multiple Telegram bots built using webhook and polling-based architectures. | In Development | Public | Express.js, MySQL, Telegraph.js |
+| **Hagerly** | Digital content marketplace for managing and distributing digital assets and properties. | In Development | Private | Laravel, MySQL, Docker, Swagger |
+
+</details>
+
+
 <!--
 ## 🚀 Technologies & Tools
 
@@ -146,6 +169,14 @@ Here are some of my featured projects:
 
 <p align="left">
   <strong>Open to full-stack roles, freelance projects, technical collaborations, and product-focused engineering work.</strong>
+</p>
+
+<p align="left">
+  <strong>Open to:</strong>
+  <img src="https://img.shields.io/badge/Full--Stack%20Roles-Open-22C55E?style=flat-square" alt="Full-Stack Roles" />
+  <img src="https://img.shields.io/badge/Freelance%20Projects-Available-2563EB?style=flat-square" alt="Freelance Projects" />
+  <img src="https://img.shields.io/badge/Technical%20Collaboration-Welcome-7C3AED?style=flat-square" alt="Technical Collaboration" />
+  <img src="https://img.shields.io/badge/Product%20Engineering-Interested-F97316?style=flat-square" alt="Product Engineering" />
 </p>
 
 ## 📬 Connect With Me
