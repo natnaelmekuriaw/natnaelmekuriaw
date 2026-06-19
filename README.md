@@ -44,25 +44,6 @@ I'm a Full-Stack Software Engineer with 4+ years of experience building scalable
 </p>
 
 
-## 📌 Projects
-
-Here are some of my featured projects:
-
-| Project Name            | Description                                                                 | Live Demo                                   | Repository      | Technologies & Tools |
-|-------------------------|---------------------------------------------------------------------------|---------------------------------------------|----------------|----------------------|
-| **Ecommerce**   | A Shopify like ecommerce and ai powered website builder and hosting service   | In development | Private | React, Next Js, sqlite |
-| **Finance Software**   | A fully customizable finance solution with features beyond Peachtree.   | In development | Private | React, Nest Js, Prisma, Mysql |
-| **Ethiojobs Job Board** | A job board featuring advanced candidate matching, AI-powered CV parsing, and more. | [Live](https://ethiojobs.net) | Private | React, NestJS, Material UI, Php, Laravel, Mysql, phpMyAdmin, Docker, , Swagger, GitLab, Ubuntu linux |
-| **Kipawa**             | A specialized job board with a slightly different focus.                  | [Live](https://www.kipawa.io) | Private | React, NestJS, Material UI, Php, Laravel, Mysql, phpMyAdmin, 
-| **Dereja**             | A streamlined platform designed for undergraduate job seekers.            | [Live](https://www.dereja.com/) | Private | React, Php Laravel, MongoDB |
-| **ATS Software**       | A comprehensive applicant tracking SASS software .                               | [Live](https://ats.ethiojobs.net) | Private | Private | React, NestJS, Material UI, Php, Laravel, Mysql, phpMyAdmin , Docker , Swagger, GitLab, Ubuntu linux |
-| **EthioFreelance**     | A talent marketplace catering to freelancers and students.               | On Maintenance | Public | Next.js, Prisma, [HelloCash](https://hellocash.money) local payment integration |
-| **APMS**               | An Academic Project Management System for educational institutions and intelectual properties.       |   | Private | React, NestJS, MySQL |
-| **ERP Software**               | Cloud based ERP solution.       | In Development | Private |
-| **Data Sourcing App**               | Simple laravel based Data storing, sourcing and filtering app.       | In Development | Private | PhpLaravel, BootStrap ,AWS integration,  |
-| **Telegram Bots**               | Multiple telegram bots implmented using webhooks and polling method  | In Development | Public | Webhooks, TelegraphJs, ExpressJs, Mysql  |
-| **Hagerly**               | Digital content Merket place for digital contnet and properties | In Development | Private | Laravel, Mysql, Docker, Laravel sail, Swagger   |
-
 
 ## 📌 Featured Projects
 
