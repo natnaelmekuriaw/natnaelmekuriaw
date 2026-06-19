@@ -142,6 +142,8 @@ Here are some of my featured projects:
 - Email: [natnaelmekuriaw50@gmail.com](mailto\:natnaelmekuriaw50@gmail.com)
 -->
 
+# I'm open to full-stack roles, freelance projects, technical collaborations, and product-focused engineering work.
+
 ## 📬 Connect With Me
 
 <p align="left">
