@@ -1,4 +1,4 @@
-# Hi there, I'm Natnael Mekuriaw 👋
+<img width="602" height="227" alt="image" src="https://github.com/user-attachments/assets/57d24a03-acd5-4d37-8a03-b5bdc117cfb5" /># Hi there, I'm Natnael Mekuriaw 👋
 
 Welcome to my GitHub! I'm a passionate Full-Stack Developer and Software Engineer with over 3 years of experience in developing high-quality and reliable software products. I work with React, Vue, Next.js, NestJS, Prisma, PHP Laravel, and more advanced technologies and libraries. I love building dynamic and scalable applications. 🚀
 
@@ -61,6 +61,10 @@ Here are some of my featured projects:
 
 ## 📊 GitHub Stats
 ![gitstatus](https://github-readme-stats.vercel.app/api?username=natnaelmekuriaw&show_icons=true&theme=dracula)
+
+## 📊 GitLab Stats
+<img width="602" height="227" alt="image" src="https://github.com/user-attachments/assets/16377c46-e210-4e3a-96b0-80c09a12714d" />
+
 ![Screenshot from 2025-02-06 16-23-54](https://github.com/user-attachments/assets/eb5707dc-9fcc-4ec4-bac8-75a7ad27f9b5)
 
 
