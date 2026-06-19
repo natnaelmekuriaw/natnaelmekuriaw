@@ -63,6 +63,8 @@ Here are some of my featured projects:
 | **Telegram Bots**               | Multiple telegram bots implmented using webhooks and polling method  | In Development | Public | Webhooks, TelegraphJs, ExpressJs, Mysql  |
 | **Hagerly**               | Digital content Merket place for digital contnet and properties | In Development | Private | Laravel, Mysql, Docker, Laravel sail, Swagger   |
 
+
+<!--
 ## 🚀 Technologies & Tools
 
 
@@ -99,6 +101,8 @@ Here are some of my featured projects:
    - Swagger documentation
    - Adobe XD
    - Linux
+
+   -->
 
 
 ## 📊 GitHub Stats
