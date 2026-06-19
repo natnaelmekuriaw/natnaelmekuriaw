@@ -165,19 +165,11 @@ Here are some of my featured projects:
 - Email: [natnaelmekuriaw50@gmail.com](mailto\:natnaelmekuriaw50@gmail.com)
 -->
 
-## I'm open to full-stack roles, freelance projects, technical collaborations, and product-focused engineering work.
-
 <p align="left">
   <strong>Open to full-stack roles, freelance projects, technical collaborations, and product-focused engineering work.</strong>
 </p>
 
-<p align="left">
-  <strong>Open to:</strong>
-  <img src="https://img.shields.io/badge/Full--Stack%20Roles-Open-22C55E?style=flat-square" alt="Full-Stack Roles" />
-  <img src="https://img.shields.io/badge/Freelance%20Projects-Available-2563EB?style=flat-square" alt="Freelance Projects" />
-  <img src="https://img.shields.io/badge/Technical%20Collaboration-Welcome-7C3AED?style=flat-square" alt="Technical Collaboration" />
-  <img src="https://img.shields.io/badge/Product%20Engineering-Interested-F97316?style=flat-square" alt="Product Engineering" />
-</p>
+
 
 ## 📬 Connect With Me
 
