@@ -68,25 +68,6 @@ Here are some of my featured projects:
 <!--![Screenshot from 2025-02-06 16-23-54](https://github.com/user-attachments/assets/eb5707dc-9fcc-4ec4-bac8-75a7ad27f9b5) -->
 
 
-# TEST STARTS HERE
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-
-# TEST STARTS HERE
-
 
 ## 📬 Connect with Me
 
