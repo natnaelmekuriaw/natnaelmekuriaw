@@ -1,38 +1,28 @@
-# Natnael Mekuriaw
+# Hi, I'm Natnael 👋
 
 **Senior Fullstack Software Engineer** · Addis Ababa, Ethiopia
 
-I build web and desktop software for recruitment, business operations, and finance. With 4+ years of experience, my work covers product development from user interfaces and APIs to integrations, data models, and automated tests. I enjoy turning complex workflows into reliable tools that people can use every day.
+I build software for hiring, business operations, and finance. With 4+ years of experience, I've worked across web apps, APIs, integrations, and desktop tools, with a focus on making complex workflows feel simple.
 
-## What I've worked on
+[Portfolio](https://natnael-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/natnael-mekuriaw-504361178/) · [Email](mailto:natnaelmekuriaw50@gmail.com)
 
-- **Recruitment platforms:** Led development of job boards and an applicant tracking system (ATS) across Ethiojobs, Dereja, and Kipawa. Also worked on AI and payment integrations, data sourcing, and Telegram automation.
-- **Business software:** Led development of cloud-based business software at Composity, contributed to ERP and e-commerce products, and built cross-platform Electron desktop applications for local use.
-- **Financial products:** Developed backend systems and services at Cashflow and contributed to finance software at ConDigital.
-- **Academic systems:** Led development of an academic project management system.
+---
 
 ## Selected work
 
-| Product | My contribution | Link |
-| --- | --- | --- |
-| Recruitment platforms and ATS | Job boards, applicant tracking, integrations, and automation | [Ethiojobs](https://ethiojobs.net/) · [Dereja](https://www.dereja.com/) · [Kipawa](https://kipawa.io/) · [ATS](https://ats.ethiojobs.net/) |
-| Composity business software | Cloud-based web software and Electron desktop applications | [Composity](https://composity.com/en) |
-| Finance software | Backend services and accounting workflows | Private work |
-| Academic Project Management System | Led development of the application | Private work |
+- **Hiring platforms** — Led work on [Ethiojobs](https://ethiojobs.net/), [Dereja](https://www.dereja.com/), and [Kipawa](https://kipawa.io/) job boards and an [ATS](https://ats.ethiojobs.net/).
+- **Business software** — Built cloud-based web systems and Electron desktop apps at [Composity](https://composity.com/en).
+- **Financial systems** — Developed backend services at Cashflow and finance software at ConDigital.
+- **Academic projects** — Led development of an academic project management system.
 
-## Technologies
+## Tools I use
 
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,laravel,mysql,docker,electron" alt="TypeScript, React, Next.js, Node.js, NestJS, Laravel, MySQL, Docker, Electron" />
 
-- **Frontend:** React, Next.js, Vue.js, TypeScript, Tailwind CSS, MUI, Ant Design
-- **Backend:** Node.js, Express.js, NestJS, Laravel, REST APIs
-- **Data:** MySQL, MongoDB, Prisma, Laravel Eloquent
-- **Desktop and delivery:** Electron, Docker, Git, Linux, Swagger/OpenAPI
-- **Testing:** Playwright, Jest, Supertest
-- **Additional experience:** Python, Java, C++
+**Frontend:** React · Next.js · Vue.js · TypeScript<br>
+**Backend & data:** Node.js · NestJS · Laravel · MySQL · MongoDB<br>
+**Testing & delivery:** Playwright · Jest · Docker · Git
 
-## Connect
+---
 
-I'm open to senior fullstack roles, freelance projects, and product collaborations.
-
-[Portfolio](https://natnael-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/natnael-mekuriaw-504361178/) · [Email](mailto:natnaelmekuriaw50@gmail.com)
+Open to senior fullstack roles and product-focused collaborations.
