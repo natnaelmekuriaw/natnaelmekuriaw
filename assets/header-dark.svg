@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="244" viewBox="0 0 1000 244" role="img" aria-labelledby="title desc">
+  <title id="title">Natnael Mekuriaw — Senior Fullstack Software Engineer</title>
+  <desc id="desc">Based in Addis Ababa, Ethiopia. Building web applications, APIs and desktop software.</desc>
+  <rect width="1000" height="244" rx="12" fill="#101b23"/>
+  <rect x="42" y="35" width="28" height="3" rx="1.5" fill="#68d5c3"/>
+  <text x="82" y="41" fill="#a0b6c1" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="1.4">ADDIS ABABA, ETHIOPIA</text>
+  <text x="42" y="112" fill="#f0f6f8" font-family="Segoe UI,Arial,sans-serif" font-size="51" font-weight="700" letter-spacing="-1.8">Natnael Mekuriaw</text>
+  <text x="42" y="151" fill="#68d5c3" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" letter-spacing="-.4">Senior Fullstack Software Engineer</text>
+  <line x1="42" y1="184" x2="594" y2="184" stroke="#29434d"/>
+  <text x="42" y="216" fill="#a0b6c1" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing=".4">Web applications  ·  APIs &amp; integrations  ·  Desktop</text>
+  <g fill="none" stroke="#29434d" stroke-width="1.5">
+    <rect x="729" y="48" width="178" height="148" rx="9"/>
+    <path d="M729 88H907M769 48V196M868 48V196"/>
+    <path d="M691 122H729M907 122H945"/>
+    <circle cx="689" cy="122" r="4" fill="#68d5c3" stroke="none"/>
+    <circle cx="947" cy="122" r="4" fill="#68d5c3" stroke="none"/>
+    </g>
+    <text x="817" y="145" fill="#f0f6f8" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="49" font-weight="600" letter-spacing="-3">NM</text>
+    <path d="M785 166H849" stroke="#68d5c3" stroke-width="3" stroke-linecap="round"/>
+</svg>

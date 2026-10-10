@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="240" viewBox="0 0 520 240" role="img" aria-labelledby="title desc">
+  <title id="title">Natnael Mekuriaw — Senior Fullstack Software Engineer</title>
+  <desc id="desc">Based in Addis Ababa, Ethiopia. Building web applications, APIs and desktop software.</desc>
+  <rect width="520" height="240" rx="12" fill="#101b23"/>
+  <rect x="30" y="35" width="28" height="3" rx="1.5" fill="#68d5c3"/>
+  <text x="70" y="41" fill="#a0b6c1" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="1.4">ADDIS ABABA, ETHIOPIA</text>
+  <text x="30" y="100" fill="#f0f6f8" font-family="Segoe UI,Arial,sans-serif" font-size="42" font-weight="700" letter-spacing="-1.8">Natnael Mekuriaw</text>
+  <text x="30" y="139" fill="#68d5c3" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="600" letter-spacing="-.4">Senior Fullstack Software Engineer</text>
+  <line x1="30" y1="169" x2="490" y2="169" stroke="#29434d"/>
+  <text x="30" y="205" fill="#a0b6c1" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing=".4">Web applications  ·  APIs &amp; integrations  ·  Desktop</text>
+  
+</svg>
