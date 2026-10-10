@@ -6,11 +6,11 @@
 </picture>
 
 <p>
-  <a href="https://natnael-portfolio.vercel.app/"><strong>Explore my portfolio ↗</strong></a>
+  <a href="https://natnael-portfolio.vercel.app/"><strong>Portfolio</strong></a>
   &nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/natnael-mekuriaw-504361178/">LinkedIn</a>
   &nbsp; · &nbsp;
-  <a href="mailto:natnaelmekuriaw50@gmail.com">Get in touch</a>
+  <a href="mailto:natnaelmekuriaw50@gmail.com">Email</a>
 </p>
 
 I'm a software engineer with **4+ years of experience** turning business requirements into working products. My work spans recruitment platforms, business software and financial systems — from the interface and data model to APIs, integrations and automated tests.
@@ -19,7 +19,7 @@ I enjoy owning features end to end and making complex workflows easier to use an
 
 ## Selected work
 
-### Business software · [Composity ↗](https://composity.com/en)
+### Business software · [Composity](https://composity.com/en)
 
 Led development of **business software for web and desktop**, including cloud-based systems and cross-platform Electron apps for local use. Worked across ERP and ecommerce products, with automated tests using Playwright, Jest and Supertest.
 
@@ -64,4 +64,4 @@ JavaScript · PHP · HTML/CSS · Python · Java · C++ · MUI · Ant Design · V
 
 ---
 
-**Have a product or a role in mind?** I'm open to senior fullstack opportunities and thoughtful product collaborations. [Let's talk ↗](mailto:natnaelmekuriaw50@gmail.com)
+**Have a product or a role in mind?** I'm open to senior fullstack opportunities and thoughtful product collaborations. [Let's talk](mailto:natnaelmekuriaw50@gmail.com)
