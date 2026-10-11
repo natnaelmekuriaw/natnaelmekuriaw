@@ -50,14 +50,9 @@
   <img src="./assets/badges/microservices-dcd5b45d23.svg" alt="Microservices">
 </p>
 
-## More technologies & tools
+## Databases & ORMs
 
 <p>
-  <strong>Primary languages & web standards</strong><br>
-  <img src="https://skillicons.dev/icons?i=ts,js,php,html,css&theme=light" alt="TypeScript, JavaScript, PHP, HTML5 and CSS3" width="216" height="40">
-</p>
-<p>
-  <strong>Databases & ORMs</strong><br>
   <img src="./assets/badges/mysql-9722cce8cb.svg" alt="MySQL">
   <img src="./assets/badges/mongodb-36d6a1ea8f.svg" alt="MongoDB">
   <img src="./assets/badges/prisma-fe6d7e38b4.svg" alt="Prisma">
@@ -66,7 +61,12 @@
 </p>
 
 <details>
-<summary><strong>View additional technologies, tools & practices</strong></summary>
+<summary><strong>More technologies &amp; tools</strong></summary>
+
+<p>
+  <strong>Primary languages & web standards</strong><br>
+  <img src="https://skillicons.dev/icons?i=ts,js,php,html,css&theme=light" alt="TypeScript, JavaScript, PHP, HTML5 and CSS3" width="216" height="40">
+</p>
 
 **UI libraries & state management**
 
@@ -194,7 +194,10 @@ Some professional source code is private. [Explore my portfolio](https://natnael
 <summary><strong>View detailed GitHub activity</strong></summary>
 
 <p align="center">
-  <a href="https://github.com/natnaelmekuriaw?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=natnaelmekuriaw&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7CB1FF&text_color=C9D1D9&icon_color=60A5FA&border_radius=12&hide_rank=true&hide=issues,contribs&line_height=38&include_all_commits=true&disable_animations=true&card_width=390&custom_title=Public%20GitHub%20stats" alt="Public GitHub stats: stars, all-time commits and pull requests" width="390"></a>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter#faq"><img src="https://komarev.com/ghpvc/?username=natnaelmekuriaw&label=Profile+views&color=2563eb&style=for-the-badge" alt="Profile views counter"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/natnaelmekuriaw?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=natnaelmekuriaw&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7CB1FF&text_color=C9D1D9&icon_color=60A5FA&border_radius=12&hide_rank=false&rank_icon=default&ring_color=7CB1FF&hide=issues,contribs&line_height=38&include_all_commits=true&disable_animations=true&card_width=437&custom_title=Public%20GitHub%20stats" alt="Public GitHub stats and GitHub Readme Stats letter rank" width="390"></a>
   <a href="https://github.com/natnaelmekuriaw?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natnaelmekuriaw&layout=compact&hide_border=true&bg_color=0D1117&title_color=7CB1FF&text_color=C9D1D9&border_radius=12&card_width=390&langs_count=8&disable_animations=true&custom_title=Languages%20in%20public%20repos" alt="Language distribution in public GitHub repositories" width="390"></a>
 </p>
 <p align="center">
