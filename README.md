@@ -1,5 +1,5 @@
 <details name="profile-view">
-<summary><table><tr><td><details name="profile-view" open><summary><strong>Overview</strong></summary></details></td><td><strong>Detailed</strong></td></tr></table></summary>
+<summary aria-label="Detailed"><table align="left"><tr><td><details name="profile-view" open><summary aria-label="Overview"><strong>Overview</strong></summary></details></td><td><strong>Detailed</strong></td></tr></table><br clear="all"></summary>
 
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/profile-banner-muted-mobile.png">
