@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://github.com/natnaelmekuriaw"><img src="./assets/navigation/overview-inactive.svg" alt="Overview" width="144" height="44"></a>
+  <a href="./DETAILS.md"><img src="./assets/navigation/detailed-active.svg" alt="Detailed (selected)" width="144" height="44"></a>
+</p>
+
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/profile-banner-muted-mobile.png">
   <img src="./assets/profile-banner-muted.png" alt="Natnael Mekuriaw — Senior Fullstack Software Engineer" width="1000">
