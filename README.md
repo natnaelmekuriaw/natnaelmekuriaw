@@ -190,8 +190,8 @@ Some professional source code is private. [Explore my portfolio](https://natnael
   </a>
 </p>
 
-<details>
-<summary><strong>View detailed GitHub activity</strong></summary>
+<!-- <details>
+<summary><strong>View detailed GitHub activity</strong></summary> -->
 
 <p align="center">
   <a href="https://hits.sh/github.com/natnaelmekuriaw/"><img src="https://hits.sh/github.com/natnaelmekuriaw.svg?label=Profile%20views&color=blue&style=for-the-badge" alt="Profile views counter"></a>
@@ -204,7 +204,7 @@ Some professional source code is private. [Explore my portfolio](https://natnael
   <a href="https://github.com/natnaelmekuriaw?tab=overview"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natnaelmekuriaw&theme=github_dark&name=Natnael%20Mekuriaw&title_color=7CB1FF&chart_color=60A5FA" alt="GitHub contribution activity over time" width="780"></a>
 </p>
 
-</details>
+<!-- </details> -->
 
 <p align="center">
   <a href="mailto:natnaelmekuriaw50@gmail.com">
