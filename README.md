@@ -184,8 +184,8 @@ Some professional source code is private. [Explore my portfolio](https://natnael
 <p align="center">
   <a href="https://github.com/natnaelmekuriaw">
     <picture>
-      <source media="(max-width: 600px)" srcset="https://streak-stats.demolab.com?user=natnaelmekuriaw&hide_current_streak=false&hide_border=true&background=0D1117&sideNums=AEBFD2&sideLabels=B7C5D8&currStreakNum=AEBFD2&currStreakLabel=B7C5D8&ring=60A5FA&fire=60A5FA&dates=79869B&stroke=263244&border_radius=12&card_height=170&disable_animations=true&timezone=Africa%2FNairobi&card_width=480&v=2026-10-16">
-      <img src="https://streak-stats.demolab.com?user=natnaelmekuriaw&hide_current_streak=false&hide_border=true&background=0D1117&sideNums=AEBFD2&sideLabels=B7C5D8&currStreakNum=AEBFD2&currStreakLabel=B7C5D8&ring=60A5FA&fire=60A5FA&dates=79869B&stroke=263244&border_radius=12&card_height=170&disable_animations=true&timezone=Africa%2FNairobi&card_width=780&v=2026-10-16" alt="Lifetime GitHub contributions, current streak and longest contribution streak for natnaelmekuriaw" width="780">
+      <source media="(max-width: 600px)" srcset="https://streak-stats.demolab.com?user=natnaelmekuriaw&hide_current_streak=false&hide_border=true&background=0D1117&sideNums=AEBFD2&sideLabels=B7C5D8&currStreakNum=AEBFD2&currStreakLabel=B7C5D8&ring=60A5FA&fire=60A5FA&dates=79869B&stroke=263244&border_radius=12&card_height=170&disable_animations=true&timezone=Africa%2FNairobi&card_width=480"><!---&v=2026-10-16" -->
+      <img src="https://streak-stats.demolab.com?user=natnaelmekuriaw&hide_current_streak=false&hide_border=true&background=0D1117&sideNums=AEBFD2&sideLabels=B7C5D8&currStreakNum=AEBFD2&currStreakLabel=B7C5D8&ring=60A5FA&fire=60A5FA&dates=79869B&stroke=263244&border_radius=12&card_height=170&disable_animations=true&timezone=Africa%2FNairobi&card_width=780"  alt="Lifetime GitHub contributions, current streak and longest contribution streak for natnaelmekuriaw" width="780"> <!---&v=2026-10-16" -->
     </picture>
   </a>
 </p>
