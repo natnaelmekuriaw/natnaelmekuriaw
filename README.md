@@ -199,7 +199,9 @@ Some professional source code is private. [Explore my portfolio](https://natnael
 <p align="center">
   <a href="https://github.com/natnaelmekuriaw?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=natnaelmekuriaw&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7CB1FF&text_color=C9D1D9&icon_color=60A5FA&border_radius=12&hide_rank=false&rank_icon=default&ring_color=7CB1FF&hide=issues,contribs&line_height=38&include_all_commits=true&disable_animations=true&card_width=437&custom_title=Public%20GitHub%20stats" alt="Public GitHub stats and GitHub Readme Stats letter rank" width="390"></a>
   <!-- Public repo languages -->
+  <!-- 
   <a href="https://github.com/natnaelmekuriaw?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natnaelmekuriaw&layout=compact&hide_border=true&bg_color=0D1117&title_color=7CB1FF&text_color=C9D1D9&border_radius=12&card_width=390&langs_count=8&disable_animations=true&custom_title=Languages%20in%20public%20repos" alt="Language distribution in public GitHub repositories" width="390"></a> 
+  -->
 </p>
 <p align="center">
   <a href="https://github.com/natnaelmekuriaw?tab=overview"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natnaelmekuriaw&theme=github_dark&name=Natnael%20Mekuriaw&title_color=7CB1FF&chart_color=60A5FA" alt="GitHub contribution activity over time" width="780"></a>
