@@ -194,7 +194,7 @@ Some professional source code is private. [Explore my portfolio](https://natnael
 <summary><strong>View detailed GitHub activity</strong></summary> -->
 
 
- <!--
+ <!-- || -->
 <p align="center">
   <a href="https://hits.sh/github.com/natnaelmekuriaw/"><img src="https://hits.sh/github.com/natnaelmekuriaw.svg?label=Profile%20views&color=blue&style=for-the-badge" alt="Profile views counter"></a>
 </p>
@@ -208,7 +208,7 @@ Some professional source code is private. [Explore my portfolio](https://natnael
  
 </p>
 
-  -->
+ 
   
 
 <p align="center">
