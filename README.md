@@ -1,6 +1,3 @@
-<details name="profile-view">
-<summary aria-label="Detailed"><table align="left"><tr><td><details name="profile-view" open><summary aria-label="Overview"><strong>Overview</strong></summary></details></td><td><strong>Detailed</strong></td></tr></table><br clear="all"></summary>
-
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/profile-banner-muted-mobile.png">
   <img src="./assets/profile-banner-muted.png" alt="Natnael Mekuriaw — Senior Fullstack Software Engineer" width="1000">
@@ -196,24 +193,16 @@ Some professional source code is private. [Explore my portfolio](https://natnael
 <!-- <details>
 <summary><strong>View detailed GitHub activity</strong></summary> -->
 
-<!--
 <p align="center">
   <a href="https://hits.sh/github.com/natnaelmekuriaw/"><img src="https://hits.sh/github.com/natnaelmekuriaw.svg?label=Profile%20views&color=blue&style=for-the-badge" alt="Profile views counter"></a>
 </p>
--->
-
-<!-- ACCOUNT RANK & LANG DISTRIBUTIONS -->
-<!--
 <p align="center">
   <a href="https://github.com/natnaelmekuriaw?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=natnaelmekuriaw&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7CB1FF&text_color=C9D1D9&icon_color=60A5FA&border_radius=12&hide_rank=false&rank_icon=default&ring_color=7CB1FF&hide=issues,contribs&line_height=38&include_all_commits=true&disable_animations=true&card_width=437&custom_title=Public%20GitHub%20stats" alt="Public GitHub stats and GitHub Readme Stats letter rank" width="390"></a>
-  <!-- Public repo languages -/->
-  <!--  -/->
+  <!-- Public repo languages -->
+  <!--  -->
   <a href="https://github.com/natnaelmekuriaw?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natnaelmekuriaw&layout=compact&hide_border=true&bg_color=0D1117&title_color=7CB1FF&text_color=C9D1D9&border_radius=12&card_width=390&langs_count=8&disable_animations=true&custom_title=Languages%20in%20public%20repos" alt="Language distribution in public GitHub repositories" width="390"></a> 
  
 </p>
- -->
-
-
 <p align="center">
   <a href="https://github.com/natnaelmekuriaw?tab=overview"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natnaelmekuriaw&theme=github_dark&name=Natnael%20Mekuriaw&title_color=7CB1FF&chart_color=60A5FA" alt="GitHub contribution activity over time" width="780"></a>
 </p>
@@ -232,5 +221,3 @@ Some professional source code is private. [Explore my portfolio](https://natnael
   <a href="https://natnael-portfolio.vercel.app/"><img src="./assets/badges/explore-my-portfolio-81cb68d43f.svg" alt="Explore my portfolio"></a>
   <a href="https://www.linkedin.com/in/natnael-mekuriaw-504361178/"><img src="./assets/badges/connect-on-linkedin-e8a661f432.svg" alt="Connect on LinkedIn"></a>
 </p>
-
-</details>
